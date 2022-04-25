@@ -43,7 +43,7 @@ function App() {
       <div className='container'>
         <button className='btn delete' onClick={()=> setFilms([])}>Delete all</button>
       </div>
-      <p>All information was taken from website https://paramountcomedy.ru/blog/top-10-luchshikh-filmov/ in educational purposes</p>
+      <p>All information was taken from website https://paramountcomedy.ru/blog/top-10-luchshikh-filmov/ in educational purpose</p>
     </div>
   );
 }
